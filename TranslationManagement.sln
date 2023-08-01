@@ -28,6 +28,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "External.ThirdParty.Service
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TranslationManagement.Services", "TranslationManagement.Services\TranslationManagement.Services.csproj", "{F15DCF4E-4398-405E-AE97-369679B805FB}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TranslationManagement.Tests", "TranslationManagement.Tests\TranslationManagement.Tests.csproj", "{70BAE7C5-EF8E-49B2-AC3F-3C63DB7957CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,6 +60,10 @@ Global
 		{F15DCF4E-4398-405E-AE97-369679B805FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F15DCF4E-4398-405E-AE97-369679B805FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F15DCF4E-4398-405E-AE97-369679B805FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70BAE7C5-EF8E-49B2-AC3F-3C63DB7957CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70BAE7C5-EF8E-49B2-AC3F-3C63DB7957CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70BAE7C5-EF8E-49B2-AC3F-3C63DB7957CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70BAE7C5-EF8E-49B2-AC3F-3C63DB7957CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
