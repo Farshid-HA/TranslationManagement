@@ -1,0 +1,9 @@
+body{
+    background-color: #eee;
+}
+table th:last-child{
+    text-align: center;;
+}
+table td:last-child{
+    text-align: center;
+}
